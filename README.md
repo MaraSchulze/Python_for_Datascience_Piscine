@@ -15,6 +15,11 @@ The descriptions of the exercises are found in the subject pdfs in the 5 module 
 ### Requirements
 Python 3.10
 ### Usage
+First cd into the module folder:
+```
+cd Module<n>
+```
+then execute (according to the exercise):
 ```
 python3.10 <programname>.py
 ```
