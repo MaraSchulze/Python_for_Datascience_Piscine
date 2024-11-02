@@ -15,9 +15,10 @@ The descriptions of the exercises are found in the subject pdfs in the 5 module 
 ### Requirements
 Python 3.10
 ### Usage
-First cd into the module folder:
+First cd into the module folder, then cd into the subfolder with the exercise:
 ```
-cd Module<n>
+cd Module_<n>
+cd ex<0x>
 ```
 then execute (according to the exercise):
 ```
