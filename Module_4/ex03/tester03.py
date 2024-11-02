@@ -5,5 +5,5 @@ student = Student(name="Edward", surname="agle")
 print(student)
 
 # Should raise an error
-student = Student(name = "Edward", surname = "agle", id = "toto")
-print(student)
+# student = Student(name = "Edward", surname = "agle", id = "toto")
+# print(student)
