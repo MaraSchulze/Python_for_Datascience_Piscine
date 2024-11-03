@@ -11,11 +11,15 @@ The descriptions of the exercises are found in the subject pdfs in the 5 module 
 | Module 2: Data Tables  | pandas load_csv, matplotlib, matplotlib with 2 plots, scatter plots and simple data wrangling |
 | Module 3: Oriented Object Programming | Simple class, Inheritance, Diamand Problem and MRO, magic functions and operator, abstractmethod decorator |
 | Module 4: Data Oriented Design | statistics, closures, decorators, dataclass |
-
 ### Requirements
-Python 3.10
+venv
 ### Usage
-First cd into the module folder, then cd into the subfolder with the exercise:
+First set up the virtual environment (it takes a little while):
+```
+make
+```
+  
+Now cd into the module folder, then cd into the subfolder with the exercise:
 ```
 cd Module_<n>
 cd ex<0x>
