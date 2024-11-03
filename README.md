@@ -18,6 +18,10 @@ First set up the virtual environment (it takes a little while):
 ```
 make
 ```
+Then activate the virtual environment (if it works there appears "(venv)" as prompt):
+```
+source venv/bin/activate
+```
   
 Now cd into the module folder, then cd into the subfolder with the exercise:
 ```
@@ -31,4 +35,9 @@ python3.10 <programname>.py
 or
 ```
 python3.10 tester.py
+```
+
+If you want to leave the virtual environment, just type
+```
+deactivate
 ```
