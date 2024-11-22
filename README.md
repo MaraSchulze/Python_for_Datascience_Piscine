@@ -30,11 +30,11 @@ cd ex<0x>
 ```
 then execute (according to the exercise):
 ```
-python3.10 <programname>.py
+python <programname>.py
 ```
 or
 ```
-python3.10 tester.py
+python tester.py
 ```
 
 If you want to leave the virtual environment, just type
